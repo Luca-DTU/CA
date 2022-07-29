@@ -1,0 +1,4 @@
+-rulelist double counting 
+-ideal helmholtz free energy and threeway comparison + analytical
+-pf metric
+-automatize
